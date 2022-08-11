@@ -15,8 +15,9 @@ html {
 }
 
 .icon .numero {
-    background-color: rgb(255, 213, 0);
+    background-color: #d6961e;
     border-radius: 50%;
+    color: white;
     height: 24px;
     left: 45%;
     position: absolute;
@@ -47,7 +48,7 @@ html {
 .btn-item,
 .btn-vaciar,
 .btn-quitar {
-    background-color: #D9AE5F;
+    background-color: #d6961e;
     border: none;
     border-radius: 8px;
     box-shadow: 0 3px 6px rgb(0 0 0 / 16%);
@@ -73,13 +74,4 @@ html {
 .btn-vaciar:focus,
 .btn-quitar:focus {
     outline: none;
-}
-
-.btn-item:hover {
-    background-color: #d6961e;
-}
-
-.btn-vaciar:hover,
-.btn-quitar:hover {
-    background-color: #73221A;
 }

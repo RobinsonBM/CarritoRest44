@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "nombre": "Punta de Anca",
+        "precio": 37000,
+        "imagen": "puntaDeAnca.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Bandeja Paisa",
+        "precio": 26000,
+        "imagen": "bandeja-paisa.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Cañon de cerdo",
+        "precio": 35000,
+        "imagen": "cañon.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Cazuela de Frijol",
+        "precio": 27000,
+        "imagen": "cazuela.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Empanadas",
+        "precio": 3500,
+        "imagen": "empanadas.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Fritos",
+        "precio": 5000,
+        "imagen": "fritos.jpg"
+    },
+    {
+        "id": 7,
+        "nombre": "Mondongo",
+        "precio": 30000,
+        "imagen": "mondongo.jpg"
+    },
+    {
+        "id": 8,
+        "nombre": "Picada",
+        "precio": 57000,
+        "imagen": "picada.jpg"
+    },
+    {
+        "id": 9,
+        "nombre": "Sancocho Trifasico",
+        "precio": 32000,
+        "imagen": "sancocho.jpg"
+    },
+    {
+        "id": 8,
+        "nombre": "Solomo de res",
+        "precio": 37000,
+        "imagen": "solomo.jpg"
+    }
+]
