@@ -1,0 +1,85 @@
+html {
+    position: relative;
+}
+.icon {
+    top: 3rem;
+    right: 4rem;
+    position: fixed;
+    transform: scale(1.5);
+    z-index: 1;
+}
+
+.icon img {
+    height: 35px;
+    width: 35px;
+}
+
+.icon .numero {
+    background-color: rgb(255, 213, 0);
+    border-radius: 50%;
+    height: 24px;
+    left: 45%;
+    position: absolute;
+    top: 0;
+    width: 24px;
+}
+
+.img-fluid {
+    border-radius: 10px 10px 0 0;
+    height: 250px;
+    object-fit: cover;
+}
+
+.card {
+    border-radius: 10px;
+    box-shadow: 0 3px 6px rgb(0 0 0 / 16%);
+    margin: 10px;
+    width: 200px;
+}
+
+.card-body {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    padding: 0 0 10px 0;
+}
+
+.btn-item,
+.btn-vaciar,
+.btn-quitar {
+    background-color: #D9AE5F;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 3px 6px rgb(0 0 0 / 16%);
+    color: #fff;
+    cursor: pointer;
+    height: 35px;
+    transition: all .4s;
+    width: 100px;
+}
+
+.btn-vaciar,
+.btn-quitar {
+    background-color: #73221A;
+}
+
+.btn-item:hover,
+.btn-vaciar:hover,
+.btn-quitar:hover {
+    transform: scale(1.1);
+}
+
+.btn-item:focus,
+.btn-vaciar:focus,
+.btn-quitar:focus {
+    outline: none;
+}
+
+.btn-item:hover {
+    background-color: #d6961e;
+}
+
+.btn-vaciar:hover,
+.btn-quitar:hover {
+    background-color: #73221A;
+}
